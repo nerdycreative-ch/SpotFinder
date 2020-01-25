@@ -11,14 +11,6 @@
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
     <ShowAllFiles>true</ShowAllFiles>
   </PropertyGroup>
-  <ItemGroup>
-    <TypeScriptCompile Update="angular\src\app\_ViewModels\LoginViewModel.ts">
-      <SubType>Code</SubType>
-    </TypeScriptCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <TypeScriptCompile Update="angular\src\app\_ViewModels\RegisterViewModel.ts">
-      <SubType>Code</SubType>
-    </TypeScriptCompile>
-  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup />
 </Project>
