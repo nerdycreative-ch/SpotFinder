@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpotFinder.Application\SpotFinder.Application.csproj" />
+    <ProjectReference Include="..\SpotFinder.Domain\SpotFinder.Domain.csproj" />
+    <ProjectReference Include="..\SpotFinder.Infrastructure.Data\SpotFinder.Infrastructure.Data.csproj" />
+  </ItemGroup>
+
+</Project>

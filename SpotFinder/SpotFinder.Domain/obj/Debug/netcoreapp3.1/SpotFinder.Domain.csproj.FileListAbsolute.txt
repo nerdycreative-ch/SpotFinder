@@ -1,0 +1,20 @@
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.deps.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.runtimeconfig.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.runtimeconfig.dev.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.csprojAssemblyReference.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.AssemblyInfoInputs.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.AssemblyInfo.cs
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.deps.json
+D:\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.runtimeconfig.json
+D:\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.runtimeconfig.dev.json
+D:\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\SpotFinder\SpotFinder.Domain\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.csprojAssemblyReference.cache
+D:\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.AssemblyInfoInputs.cache
+D:\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.AssemblyInfo.cs
+D:\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\SpotFinder\SpotFinder.Domain\obj\Debug\netcoreapp3.1\SpotFinder.Domain.pdb

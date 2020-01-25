@@ -1,0 +1,282 @@
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.csprojAssemblyReference.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpotFinder.Web.StaticWebAssets.Manifest.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpotFinder.Web.StaticWebAssets.xml
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\angular.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\e2e\tsconfig.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\package-lock.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\package.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.app.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.spec.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tslint.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.StaticWebAssets.xml
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.exe
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.deps.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.runtimeconfig.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.runtimeconfig.dev.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Application.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Application.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.AssemblyInfoInputs.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.AssemblyInfo.cs
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.RazorTargetAssemblyInfo.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.csproj.CopyComplete
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.pdb
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.csprojAssemblyReference.cache
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpotFinder.Web.StaticWebAssets.Manifest.cache
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\staticwebassets\SpotFinder.Web.StaticWebAssets.xml
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.dll
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.pdb
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\angular.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\e2e\tsconfig.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\package-lock.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\package.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.app.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tsconfig.spec.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\angular\tslint.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.StaticWebAssets.xml
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.exe
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.deps.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.runtimeconfig.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.runtimeconfig.dev.json
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Web.pdb
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Application.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Application.pdb
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\SpotFinder\SpotFinder.Web\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.pdb
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.MvcApplicationPartsAssemblyInfo.cs
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.AssemblyInfoInputs.cache
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.AssemblyInfo.cs
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.RazorTargetAssemblyInfo.cache
+D:\SpotFinder\SpotFinder.Web\obj\Debug\netcoreapp3.1\SpotFinder.Web.csproj.CopyComplete

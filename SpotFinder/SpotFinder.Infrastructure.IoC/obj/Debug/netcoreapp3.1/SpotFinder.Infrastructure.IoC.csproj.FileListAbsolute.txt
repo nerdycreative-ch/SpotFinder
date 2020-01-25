@@ -1,0 +1,30 @@
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.deps.json
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Application.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Application.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.pdb
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.csprojAssemblyReference.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.AssemblyInfoInputs.cache
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.AssemblyInfo.cs
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.csproj.CopyComplete
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\My Projects\SpotFinder\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.deps.json
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Application.dll
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Domain.dll
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.dll
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Application.pdb
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Domain.pdb
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\bin\Debug\netcoreapp3.1\SpotFinder.Infrastructure.Data.pdb
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.csprojAssemblyReference.cache
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.AssemblyInfoInputs.cache
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.AssemblyInfo.cs
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.csproj.CopyComplete
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.dll
+D:\SpotFinder\SpotFinder.Infrastructure.IoC\obj\Debug\netcoreapp3.1\SpotFinder.Infrastructure.IoC.pdb
