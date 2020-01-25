@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj": {}
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj": {}
   },
   "projects": {
-    "D:\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj": {
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj",
+        "projectUniqueName": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj",
         "projectName": "SpotFinder.Api",
-        "projectPath": "D:\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj",
-        "packagesPath": "C:\\Users\\dafina\\.nuget\\packages\\",
-        "outputPath": "D:\\SpotFinder\\SpotFinder.Api\\obj\\",
+        "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Api\\SpotFinder.Api.csproj",
+        "packagesPath": "C:\\Users\\Norik Osmani\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dafina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Norik Osmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -31,11 +31,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj"
               },
-              "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj"
               }
             }
           }
@@ -84,24 +84,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj",
+        "projectUniqueName": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj",
         "projectName": "SpotFinder.Application",
-        "projectPath": "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj",
-        "packagesPath": "C:\\Users\\dafina\\.nuget\\packages\\",
-        "outputPath": "D:\\SpotFinder\\SpotFinder.Application\\obj\\",
+        "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj",
+        "packagesPath": "C:\\Users\\Norik Osmani\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dafina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Norik Osmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -115,11 +115,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
               },
-              "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj"
               }
             }
           }
@@ -160,24 +160,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj",
+        "projectUniqueName": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj",
         "projectName": "SpotFinder.Domain",
-        "projectPath": "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj",
-        "packagesPath": "C:\\Users\\dafina\\.nuget\\packages\\",
-        "outputPath": "D:\\SpotFinder\\SpotFinder.Domain\\obj\\",
+        "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj",
+        "packagesPath": "C:\\Users\\Norik Osmani\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dafina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Norik Osmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -253,24 +253,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj",
+        "projectUniqueName": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj",
         "projectName": "SpotFinder.Infrastructure.Data",
-        "projectPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj",
-        "packagesPath": "C:\\Users\\dafina\\.nuget\\packages\\",
-        "outputPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\obj\\",
+        "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Norik Osmani\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dafina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Norik Osmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -284,8 +284,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
               }
             }
           }
@@ -358,24 +358,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj": {
+    "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj",
+        "projectUniqueName": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj",
         "projectName": "SpotFinder.Infrastructure.IoC",
-        "projectPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj",
-        "packagesPath": "C:\\Users\\dafina\\.nuget\\packages\\",
-        "outputPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.IoC\\obj\\",
+        "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\SpotFinder.Infrastructure.IoC.csproj",
+        "packagesPath": "C:\\Users\\Norik Osmani\\.nuget\\packages\\",
+        "outputPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\dafina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Norik Osmani\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -389,14 +389,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Application\\SpotFinder.Application.csproj"
               },
-              "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Domain\\SpotFinder.Domain.csproj"
               },
-              "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
-                "projectPath": "D:\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj"
+              "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\My Files\\SpotFinder\\SpotFinder\\SpotFinder.Infrastructure.Data\\SpotFinder.Infrastructure.Data.csproj"
               }
             }
           }
@@ -433,7 +433,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
